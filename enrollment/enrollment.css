@@ -1,0 +1,16 @@
+.error{
+	color: #FF0000;
+}
+
+#titles{
+	text-align: center;
+}
+
+#titles h1::after{
+	content: '';
+	background: #000000;
+	display: block;
+	height: 3px;
+	width: 170px;
+	margin: 20px auto 5px;
+}

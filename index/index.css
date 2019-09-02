@@ -1,0 +1,116 @@
+/*------------------------ABOUT------------------------*/
+
+/*------------------------COURSES------------------------*/
+#courses{
+	background-image: url(../img/wp.jpg);
+	background-size: cover;
+	background-position: center;
+	background-color: #f89020 !important;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+#courses h1{
+	text-align: center;
+	color: #efefef !important;
+	padding-bottom: 10px;
+}
+
+#courses h1::after{
+	content: '';
+	background: #efefef;
+	display: block;
+	height: 3px;
+	width: 170px;
+	margin: 20px auto 5px;
+}
+
+#crs{
+	margin: 10px;
+}
+
+#crwd{
+	color: #efefef;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	margin-bottom: 8px;
+}
+
+#crwd img{
+	border: 5px solid #efefef;
+	border-radius: 50%;
+}
+
+#hovcrwd:hover{
+	background-color: #08C6A2;
+	border-radius: 40px;
+}
+
+#wd{
+	color: #000000;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	margin-bottom: 8px;
+}
+
+#wd img{
+	border: 5px solid #000;
+	border-radius: 50%;
+}
+
+#hovwd:hover{
+	background-color: #E47B5E;
+	border-radius: 40px;
+}
+
+#emst{
+	color: #efefef;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	margin-bottom: 8px;
+}
+
+#emst img{
+	border: 5px solid #fff;
+	border-radius: 50%;
+}
+
+#hovemst:hover{
+	background-color: #009FA2;
+	border-radius: 40px;
+}
+
+#tm{
+	color: #000000;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	margin-bottom: 8px;
+}
+
+#tm img{
+	border: 5px solid #000;
+	border-radius: 50%;
+}
+
+#hovtm:hover{
+	background-color: #F5EBBA;
+	border-radius: 40px;
+}
+
+#td{
+	color: #efefef;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	margin-bottom: 8px;
+}
+
+#td img{
+	border: 5px solid #fff;
+	border-radius: 50%;
+}
+
+#hovtd:hover{
+	background-color: #E9BE62;
+	border-radius: 40px;
+}
+/*---------------------CONTACT US---------------------*/

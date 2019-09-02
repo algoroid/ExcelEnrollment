@@ -1,0 +1,35 @@
+#searchlist {
+  height: 40px;
+  padding: 5px;
+  margin-bottom: 20px;
+}
+
+#searchinput {
+  height: 40px;
+}
+
+#add{
+  height: 40px;
+  padding: 5px;
+  margin-bottom: 20px;
+}
+
+#studenttablelist {
+  border-collapse: collapse;
+  width: 100%;
+  border: 1px solid #ddd;
+  font-size: 18px;
+}
+
+#studenttablelist th, #studenttablelist td {
+  text-align: left;
+  padding: 12px;
+}
+
+#studenttablelist tr {
+  border-bottom: 1px solid #ddd; 
+}
+
+#studenttablelist tr.header, #studenttablelist tr:hover {
+  background-color: #f1f1f1;
+}
